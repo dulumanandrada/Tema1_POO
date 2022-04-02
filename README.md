@@ -10,7 +10,7 @@
   Ce se intampla?
   Practic programul simuleaza o agenda personala in care iti poti trece lista de prieteni si data lor de nastere. Astfel, te poti deplasa in timp, dupa un nr dorit de zile si in ziua respectiva vei primi un reminder legat de cine isi serbeaza aniversarea. De asemenea in agenda iti poti nota lista de cumparaturi si o poti updata in functie de ce faci: cumperi un produs sau realizezi ca mai ai nevoie sa treci unul pe lista.
   
-  MENIUL:
+ ### MENIUL:
   
 0. Opriti acest proces acum. 
 1. Retine lista mea de prieteni si ziua lor de nastere. 
